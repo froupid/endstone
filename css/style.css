@@ -1,15 +1,9 @@
 body {
     overflow: hidden;
     margin: 0px;
-    background: url("./res/end_sky.png");
+    background: url("../res/end_sky.png");
 }
-  
-#m {
-    background-color: #040309ef;
-    width: 100vw;
-    height: 100vh;
-}
-  
+
 #p {
     position: fixed;
     bottom: 5px;
