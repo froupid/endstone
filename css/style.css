@@ -17,13 +17,13 @@ body {
 }
 
 #p a {
-    color: aliceblue;
+    color: chartreuse;
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    text-decoration-color: hotpink;
+    text-decoration-color: aqua;
 }
 
 #p a b {
-    color: hotpink;
+    color: aqua;
 }
   
 #w {
