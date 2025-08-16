@@ -19,11 +19,11 @@ body {
 #p a {
     color: chartreuse;
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    text-decoration-color: aqua;
+    text-decoration-color: dodgerblue;
 }
 
 #p a b {
-    color: aqua;
+    color: dodgerblue;
 }
   
 #w {
